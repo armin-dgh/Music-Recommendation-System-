@@ -47,3 +47,8 @@ git clone https://github.com/armin-dgh/Music-Recommendation-System-
 cd music-recommendation
 pip install -r requirements.txt
 ```
+
+## Instructions
+
+1️⃣ First, **run all notebook cells** from top to bottom to prepare the environment.  
+2️⃣ After all cells are executed successfully, **run the app**.  
